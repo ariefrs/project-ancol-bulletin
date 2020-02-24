@@ -5,7 +5,7 @@ Proyek Bulletin Ancol dikembangkan oleh :
 
 Modul yang disediakan antara lain :
 
-1. Administrasi Konten Bulletion (Section, Categories, Articles)
+1. Administrasi Konten Bulletin (Sections, Categories, Articles)
 
 Aplikasi ini dikembangkan menggunakan :
 
